@@ -41,4 +41,5 @@ Phân vùng thành công sẽ như vậy nè
 ### Thao tác xóa các phân vùng do thêm ngu hoặc thêm lộn =))  
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/0e7a00c95f88db41b4228f95ffdfa988d4f5eb9a/HinhAnh/Hinh14.png)
 ### Thao tác định dạng phân vùng sẽ thuộc loại gì (không phải định dạng phân vùng, kiểu như là nó sẽ thuộc loại gì để chút định dạng cho dễ, ví dụ loại `linux filesystem` thì là thuộc kiểu dành cho hệ thống, có thể định dạng phân vùng đó dành cho hệ thống, chút nữa làm đến đó sẽ hiểu)  
+Mình thì chỉ phân vùng ổ đĩa thành 2 vùng thôi, 1 vùng là cho boot, 1 vùng là cho root, thông thường phải có thêm 1 phân vùng nữa là phân vùng swap, phân vùng swap có chức năng là lấy dung lượng của phần swap ấy, bù cho phần ram của hệ thống bị thiếu khi thực hiện các tác vụ hoặc chương trình.
 
