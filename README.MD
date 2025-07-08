@@ -43,5 +43,5 @@ Phân vùng thành công sẽ như vậy nè
 ### Thao tác định dạng phân vùng sẽ thuộc loại gì (không phải định dạng phân vùng, kiểu như là nó sẽ thuộc loại gì để chút định dạng cho dễ, ví dụ loại `linux filesystem` thì là thuộc kiểu dành cho hệ thống, có thể định dạng phân vùng đó dành cho hệ thống, chút nữa làm đến đó sẽ hiểu)  
 Mình thì chỉ phân vùng ổ đĩa thành 2 vùng thôi, 1 vùng là cho boot, 1 vùng là cho root, thông thường phải có thêm 1 phân vùng nữa là phân vùng swap, phân vùng swap có chức năng là lấy dung lượng của phần swap ấy, bù cho phần ram của hệ thống bị thiếu khi thực hiện các tác vụ hoặc chạy chương trình.
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/b6e3da33465dd13dea632416c8976897b24c0cbb/HinhAnh/Hinh15.png)
-Sau đây mình đã chọn loại cho 2 phân vùng boot và root, hiện tại các bạn không cần biết nó là gì đâu, chỉ cần chọn giống mình là được, nếu muốn biết thì các bạn tìm docs để đọc, đừng hỏi gpt nó không trả lời đúng đâu
+Sau đây mình đã chọn loại cho 2 phân vùng boot và root, hiện tại các bạn không cần biết nó là gì đâu, chỉ cần chọn giống mình là được
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e5a76d475bfe13bdfbf587514d136780f9d34689/HinhAnh/Hinh16.png)
