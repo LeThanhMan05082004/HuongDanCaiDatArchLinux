@@ -39,5 +39,5 @@ Sau đây là một vài thao tác để tương tác với cái ổ đĩa
 Phân vùng thành công sẽ như vậy nè
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/fc44218c2c513e0f8d39c33388b65d17e4b07381/HinhAnh/Hinh13.png)
 ### Thao tác xóa các phân vùng do thêm ngu hoặc thêm lộn =))  
-### Thao tác định dạng phân vùng sẽ thuộc loại gì (không phải định dạng phân vùng, kiểu như là nó sẽ thuộc loại gì để chút định dạng cho dễ, ví dụ loại `linux system` thì là thuộc kiểu dành cho hệ thống, có thể định dạng phân vùng đó dành cho hệ thống, chút nữa làm đến đó sẽ hiểu)  
+### Thao tác định dạng phân vùng sẽ thuộc loại gì (không phải định dạng phân vùng, kiểu như là nó sẽ thuộc loại gì để chút định dạng cho dễ, ví dụ loại `linux filesystem` thì là thuộc kiểu dành cho hệ thống, có thể định dạng phân vùng đó dành cho hệ thống, chút nữa làm đến đó sẽ hiểu)  
 
