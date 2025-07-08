@@ -2,8 +2,8 @@
 Chào mừng đến với hướng dẫn cài đặt Arch Linux cho người không biết gì
 ## Bước 1: Chuẩn bị môi trường cần thiết
 Các bạn cần tải Virtualbox và file iso của Arch Linux
-- [ Virtualbox ] : https://www.virtualbox.org/
-- [ Arch Linux ] : https://archlinux.org/download/
+- [Virtualbox](https://www.virtualbox.org/)
+- [Arch Linux](https://archlinux.org/download/)
 ## Bước 2: Thiết lập môi trường máy ảo
 Các bạn vào Virtualbox và bấm vào cái hình màu xanh lam nhạt "New" để tạo máy ảo mới, ở đây là tạo máy ảo Arch Linux
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/9c9107c5c14e7a5477b5021f8de3791b733fb56d/HinhAnh/Hinh1.png)
