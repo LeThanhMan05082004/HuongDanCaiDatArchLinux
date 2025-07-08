@@ -9,3 +9,4 @@ Các bạn vào Virtualbox để tạo máy ảo mới, ở đây là tạo máy
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/9c9107c5c14e7a5477b5021f8de3791b733fb56d/HinhAnh/Hinh1.png)
 Nó sẽ ra như thế này ( này là của mình, các bạn có thể đặt tên tùy theo các bạn )
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/c107be81cf98223b1715a164386a5d6825bc6781/HinhAnh/Hinh2.png)
+![image alt]()
