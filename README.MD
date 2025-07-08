@@ -16,3 +16,4 @@ Các bạn sang đến phần cuối cùng, phần này là phần chọn dung l
 Đã thiết lập xong máy ảo, bấm nút start để chạy máy ảo
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e2d4e07426ac9d4206d0015edbe150c1439ca643/HinhAnh/Hinh5.png)
 ## Bước 3: Tiến hành cài đặt Arch Linux
+Đây là lần đầu tiên chúng ta khởi động hệ điều hành lên, đây là giao diện mặc định của hệ diều hành, nhìn nó giống như 1 hệ điều hành đã cài đặt, giống như vừa cắm USB vào máy, khởi động bằng USB là vào hệ điều hành luôn không cần cài đặt gì hết, không phải đâu nhé, nó là giao diện chính, chúng ta sẽ tiến hành cài đặt nó bằng những câu lệnh, không có GUI cài đặt đâu nhé =))
