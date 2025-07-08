@@ -19,3 +19,4 @@ Các bạn sang đến phần cuối cùng, phần này là phần chọn dung l
 Đây là lần đầu tiên chúng ta khởi động hệ điều hành lên, đây là giao diện mặc định của hệ diều hành, nhìn nó giống như 1 hệ điều hành đã cài đặt, giống như vừa cắm USB vào máy, khởi động bằng USB là vào hệ điều hành luôn không cần cài đặt gì hết, không phải đâu nhé, nó là giao diện chính, chúng ta sẽ tiến hành cài đặt nó bằng những câu lệnh, không có GUI cài đặt đâu nhé =))
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/99b75db8dd842ce59d029731bd0c1de8d37e6903/HinhAnh/Hinh6.png)
 Dùng câu lệnh 'setfont ter-132b' để font chữ to hơn để dễ dàng cài đặt
+![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e6268b12fb9cb23e3313e1a23c6e82ccb7ef4452/HinhAnh/Hinh7.png)
