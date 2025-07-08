@@ -47,3 +47,4 @@ Sau đây mình đã chọn loại cho 2 phân vùng boot và root, hiện tại
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e5a76d475bfe13bdfbf587514d136780f9d34689/HinhAnh/Hinh16.png)
 ### Chọn write để lưu lại các phân vùng
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/29966166b6760b87fe1dc657520294d9cf0e80ce/HinhAnh/Hinh17.png)
+![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/163f1bbcd185c7eb7f419f731401c399a06299a2/HinhAnh/Hinh18.png)
