@@ -14,4 +14,4 @@ Các bạn bỏ qua phần ở giữa, chuyển qua phần số 3
 Các bạn sang đến phần cuối cùng, phần này là phần chọn dung lượng cho ỗ đĩa ảo của máy ảo, các bạn để bao nhiêu cũng được, mình thì để tầm 20GB là ổn.
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/c3059c5ff68557ce0b95e5f0af588eb505250a90/HinhAnh/Hinh4.png)
 Đã thiết lập xong máy ảo, bấm nút start để chạy máy ảo
-1[image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e2d4e07426ac9d4206d0015edbe150c1439ca643/HinhAnh/Hinh5.png)
+![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e2d4e07426ac9d4206d0015edbe150c1439ca643/HinhAnh/Hinh5.png)
