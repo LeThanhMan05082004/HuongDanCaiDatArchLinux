@@ -46,3 +46,4 @@ Mình thì chỉ phân vùng ổ đĩa thành 2 vùng thôi, 1 vùng là cho boo
 Sau đây mình đã chọn loại cho 2 phân vùng boot và root, hiện tại các bạn không cần biết nó là gì đâu, chỉ cần chọn giống mình là được
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e5a76d475bfe13bdfbf587514d136780f9d34689/HinhAnh/Hinh16.png)
 ### Chọn write để lưu lại các phân vùng
+![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/29966166b6760b87fe1dc657520294d9cf0e80ce/HinhAnh/Hinh17.png)
