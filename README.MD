@@ -25,3 +25,14 @@ Phân vùng ổ đĩa, dùng câu lệnh `cfdisk` Chúng ta sẽ chọn GPT đ�
 Đây là giao diện chính của phân vùng ổ đĩa nè, các bạn không cần biết nhiều đâu, để mình chỉ các bạn vài thao tác cơ bản để phân vùng ổ đĩa
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/bc5ed874036615da8ed59cc80c769886a3c15fb5/HinhAnh/Hinh9.png)
 Nhìn xuống dưới, đừng hoảng loạn =)))
+![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/6bf611caaabd915c99866d892a12f81aca1abfd4/HinhAnh/Hinh10.png)
+`New` là nút để tạo phân vùng mới cho ổ đĩa từ cái ổ đĩa chính `FreeSpace`
+`Quit` là thoát khỏi chương trình phân vùng ổ đĩa
+`Help` là trợ giúp phân vùng ổ đĩa như thế nào, hướng dẫn phân vùng ra sao
+`Write` là lưu lại các hoạt động phân vùng, nó sẽ hỏi và yêu cầu nhập `yes` để chấp nhận, chút sẽ thấy
+`Dump` cái này không cần biết là gì đâu =)) đừng hỏi GPT nó nói cũng không hiểu đâu =)))
+Sau đây là một vài thao tác để tương tác với cái ổ đĩa
+- 1. Thao tác thêm các phân vùng mới
+- 2. Thao tác xóa các phân vùng do thêm ngu hoặc thêm lộn =))
+- 3. Thao tác định dạng phân vùng sẽ thuộc loại gì (không phải định dạng phân vùng, kiểu như là nó sẽ thuộc loại gì để chút định dạng cho dễ, ví dụ loại `linux system` thì là thuộc kiểu dành cho hệ thống, có thể định dạng phân vùng đó dành cho hệ thống, chút nữa làm đến đó sẽ hiểu)
+
