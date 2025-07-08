@@ -21,3 +21,5 @@ Các bạn sang đến phần cuối cùng, phần này là phần chọn dung l
 Dùng câu lệnh `setfont ter-132b` để font chữ to hơn để dễ dàng cài đặt
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e6268b12fb9cb23e3313e1a23c6e82ccb7ef4452/HinhAnh/Hinh7.png)
 - Phân vùng ổ đĩa, dùng câu lệnh `cfdisk`
+Chúng ta sẽ chọn GPT để làm dạng chính cho phân vùng ổ đĩa của chúng ta, mình thấy nó tên gpt nên mình lên tưởng đến chat gpt nên mình chọn nó, chứ mình không biết gì hết á, hẹ hẹ hẹ =))
+![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/f9110729f46b5e4a8b9ca0521db5cafb1fc6f9b9/HinhAnh/Hinh8.png)
