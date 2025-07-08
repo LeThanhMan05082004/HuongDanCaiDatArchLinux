@@ -50,3 +50,4 @@ Sau đây mình đã chọn loại cho 2 phân vùng boot và root, hiện tại
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/163f1bbcd185c7eb7f419f731401c399a06299a2/HinhAnh/Hinh18.png)
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/dc78387c0afcdee34bb4e3873c98cbd850d5f97d/HinhAnh/Hinh19.png)
 Kết quả nếu phân vùng đúng
+![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/dd081f6147b6397de32f12d265a876fc9c25674c/HinhAnh/Hinh20.png)
