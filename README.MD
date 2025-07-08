@@ -33,6 +33,8 @@ Nhìn xuống dưới, đừng hoảng loạn =)))
 `Dump` cái này không cần biết là gì đâu =)) đừng hỏi GPT nó nói cũng không hiểu đâu =)))  
 Sau đây là một vài thao tác để tương tác với cái ổ đĩa  
 ### Thao tác thêm các phân vùng mới  
+![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/26706b60f6c8c37abc9eb87d460088452634db28/HinhAnh/Hinh11.png)
+
 ### Thao tác xóa các phân vùng do thêm ngu hoặc thêm lộn =))  
 ### Thao tác định dạng phân vùng sẽ thuộc loại gì (không phải định dạng phân vùng, kiểu như là nó sẽ thuộc loại gì để chút định dạng cho dễ, ví dụ loại `linux system` thì là thuộc kiểu dành cho hệ thống, có thể định dạng phân vùng đó dành cho hệ thống, chút nữa làm đến đó sẽ hiểu)  
 
