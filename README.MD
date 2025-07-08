@@ -20,3 +20,4 @@ Các bạn sang đến phần cuối cùng, phần này là phần chọn dung l
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/99b75db8dd842ce59d029731bd0c1de8d37e6903/HinhAnh/Hinh6.png)
 Dùng câu lệnh `setfont ter-132b` để font chữ to hơn để dễ dàng cài đặt
 ![image alt](https://github.com/LeThanhMan05082004/HuongDanCaiDatArchLinux/blob/e6268b12fb9cb23e3313e1a23c6e82ccb7ef4452/HinhAnh/Hinh7.png)
+- Phân vùng ổ đĩa, dùng câu lệnh `cfdisk`
